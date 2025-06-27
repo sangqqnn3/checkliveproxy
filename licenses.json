@@ -1,18 +1,16 @@
-{
-    "HardwareId": "aw0LgzkHjrgOr08K",
-    "LicenseKey": "8yn_2TbXNVa75qdos7x4CiU7",
+[
+  {
+    "HardwareId": "ABC123DEF456",
+    "LicenseKey": "GENERATED_LICENSE_KEY",
     "IsActive": true,
-    "ActivatedDate": "2025-06-26 19:36:52",
-    "ExpiryDate": "2026-06-26 19:36:52",
-    "CustomerName": "Kh\u00E1ch h\u00E0ng m\u1EABu",
-    "Email": "example@email.com"
+    "ActivatedDate": "2024-01-01 00:00:00",
+    "ExpiryDate": "2025-01-01 00:00:00"
   },
   {
-    "HardwareId": "TEST_HARDWARE_ID_123",
-    "LicenseKey": "tTDpr1gyLJ1ejV0BF0jiQWEp",
+    "HardwareId": "aw0LgzkHjrgOr08K",
+    "LicenseKey": "3435367567567567",
     "IsActive": true,
-    "ActivatedDate": "2025-06-26 19:38:07",
-    "ExpiryDate": "2026-06-26 19:38:07",
-    "CustomerName": "Nguy\u1EC5n V\u0103n Test",
-    "Email": "test@email.com"
+    "ActivatedDate": "2024-01-01 00:00:00",
+    "ExpiryDate": "2026-01-01 00:00:00"
   }
+]
