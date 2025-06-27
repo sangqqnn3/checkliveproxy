@@ -12,5 +12,12 @@
     "IsActive": true,
     "ActivatedDate": "2024-01-01 00:00:00",
     "ExpiryDate": "2026-01-01 00:00:00"
+  },
+  {
+  "HardwareId": "aw0LgzkHjrgOr08K",
+  "LicenseKey": "8yn_2TbXNVa75qdos7x4CiU7",
+  "IsActive": true,
+  "ActivatedDate": "2024-01-01 00:00:00",
+  "ExpiryDate": "2026-01-01 00:00:00"
   }
 ]
