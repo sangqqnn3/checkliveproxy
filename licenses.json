@@ -53,7 +53,7 @@
                          "HardwareId":  "6479_A749_1030_2185",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "em-phat"
                      },
                      {
                          "IsActive":  true,
@@ -62,7 +62,7 @@
                          "HardwareId":  "KU2024120032102817",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "em-phat"
                      },
                      {
                          "IsActive":  true,
@@ -71,7 +71,7 @@
                          "HardwareId":  "TW059X3VLOH0095L0C36",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "em-phat"
                      },
                      {
                          "IsActive":  true,
@@ -80,7 +80,7 @@
                          "HardwareId":  "30036246592",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "em-phat"
                      }
                  ]
 }
