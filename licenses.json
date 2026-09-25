@@ -54,6 +54,33 @@
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
                          "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                     },
+                     {
+                         "IsActive":  true,
+                         "ExpiryDate":  "2029-12-31",
+                         "LicenseKey":  "LICENSE-20241231-005",
+                         "HardwareId":  "KU2024120032102817",
+                         "ActivatedDate":  "2024-12-31",
+                         "Email":  "customer@domain.com",
+                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                     },
+                     {
+                         "IsActive":  true,
+                         "ExpiryDate":  "2029-12-31",
+                         "LicenseKey":  "LICENSE-20241231-006",
+                         "HardwareId":  "TW059X3VLOH0095L0C36",
+                         "ActivatedDate":  "2024-12-31",
+                         "Email":  "customer@domain.com",
+                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                     },
+                     {
+                         "IsActive":  true,
+                         "ExpiryDate":  "2029-12-31",
+                         "LicenseKey":  "LICENSE-20241231-007",
+                         "HardwareId":  "30036246592",
+                         "ActivatedDate":  "2024-12-31",
+                         "Email":  "customer@domain.com",
+                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
                      }
                  ]
 }
