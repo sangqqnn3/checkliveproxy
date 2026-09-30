@@ -76,7 +76,7 @@
                      {
                          "IsActive":  true,
                          "ExpiryDate":  "2029-12-31",
-                         "LicenseKey":  "LICENSE-20241231-007",
+                         "LicenseKey":  "phong",
                          "HardwareId":  "30036246592",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
@@ -85,7 +85,7 @@
                      {
                          "IsActive":  true,
                          "ExpiryDate":  "2029-12-31",
-                         "LicenseKey":  "LICENSE-20241231-008",
+                         "LicenseKey":  "phong1",
                          "HardwareId":  "6479_A78A_FAC0_235F",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
