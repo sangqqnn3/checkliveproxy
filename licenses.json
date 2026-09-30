@@ -89,7 +89,7 @@
                          "HardwareId":  "6479_A78A_FAC0_235F",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "phong-team"
+                         "CustomerName":  "phong-team1"
                      },
                      {
                          "IsActive":  true,
@@ -98,7 +98,7 @@
                          "HardwareId":  "6479_A775_1A30_0240",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "phong-team"
-                     }
+                         "CustomerName":  "phong-team1"
+                     },
                  ]
 }
