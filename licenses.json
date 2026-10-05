@@ -77,10 +77,10 @@
                          "IsActive":  true,
                          "ExpiryDate":  "2029-12-31",
                          "LicenseKey":  "phong",
-                         "HardwareId":  "30036246592",
+                         "HardwareId":  "6479_A775_1A30_0240",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "em-phat"
+                         "CustomerName":  "phong-team"
                      },
                      {
                          "IsActive":  true,
@@ -99,16 +99,6 @@
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
                          "CustomerName":  "phong-team1"
-                     },
-                     {
-                         "IsActive":  true,
-                         "ExpiryDate":  "2029-12-31",
-                         "LicenseKey":  "phong-1",
-                         "HardwareId":  "6479_A775_1A30_0240",
-                         "ActivatedDate":  "2024-12-31",
-                         "Email":  "customer@domain.com",
-                         "CustomerName":  "phong-team1"
                      }
-        
                  ]
 }
