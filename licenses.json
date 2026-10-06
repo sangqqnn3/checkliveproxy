@@ -112,8 +112,8 @@
                      {
                          "IsActive":  true,
                          "ExpiryDate":  "2029-12-31",
-                         "LicenseKey":  "phong3",
-                         "HardwareId":  "ACE4_2E00_2AD7_7529_2EE4_AC00_0000_0001",
+                         "LicenseKey":  "phong5",
+                         "HardwareId":  "ACE4_2E00_3A04_BA00_2EE4_AC00_0000_0001",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
                          "CustomerName":  "phong-team1"
