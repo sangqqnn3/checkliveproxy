@@ -104,7 +104,7 @@
                          "IsActive":  true,
                          "ExpiryDate":  "2029-12-31",
                          "LicenseKey":  "phong4",
-                         "HardwareId":  "0000_0000_0000_0000_0C82_D510_0316_3118",
+                         "HardwareId":  "0000_0000_0000_0000_0C82_D510_0316_31181",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
                          "CustomerName":  "phong-team1"
@@ -113,7 +113,7 @@
                          "IsActive":  true,
                          "ExpiryDate":  "2029-12-31",
                          "LicenseKey":  "phong5",
-                         "HardwareId":  "6479_A78A_FAC0_22B7",
+                         "HardwareId":  "6479_A78A_FAC0_22B71",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
                          "CustomerName":  "phong-team1"
