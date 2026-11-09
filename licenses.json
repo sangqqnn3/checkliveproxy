@@ -117,6 +117,15 @@
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
                          "CustomerName":  "phong-team1"
+                     },
+                     {
+                         "IsActive":  true,
+                         "ExpiryDate":  "2029-12-31",
+                         "LicenseKey":  "phongtest",
+                         "HardwareId":  "0025_3856_81B1_9163",
+                         "ActivatedDate":  "2024-12-31",
+                         "Email":  "customer@domain.com",
+                         "CustomerName":  "phong-team1"
                      }
                  ]
 }
